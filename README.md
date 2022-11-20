@@ -93,6 +93,6 @@ function App() {
 
 ## Contact
 
-Your Name - [@TonyOsijo](https://twitter.com/TonyOsijo) - tonyleo2019@outlook.com
+Tony Osijo - [@TonyOsijo](https://twitter.com/TonyOsijo) - tonyleo2019@outlook.com
 
-Project Link: [https://hooobank.netlify.app](https://hooobank.netlify.app)
+Project Link: [https://hoobbank.netlify.app](https://hoobbank.netlify.app)
